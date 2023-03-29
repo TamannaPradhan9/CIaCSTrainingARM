@@ -17,7 +17,7 @@
     },
     "ProjectName": {
       "type": "string",
-      "defaultValue": "CIaCSTraining",
+      "defaultValue": "CIaCSTraining-Tamanna",
       "metadata": {
         "description": "Select name Project, all reosuces will be deployed following the naming convention using this projectname"
       }
@@ -25,7 +25,7 @@
     },
     "hostingPlanName": {
       "type": "string",
-      "defaultValue": "CIaCSTraining-Plan",
+      "defaultValue": "CIaCSTraining-Tamanna-Plan",
       "metadata": {
         "description": "Select name for App Service Plan"
       }
@@ -33,7 +33,7 @@
 
     "webappname": {
       "type": "string",
-      "defaultValue": "CIaCSTraining-Site",
+      "defaultValue": "CIaCSTraining-Tamanna-Site",
       "metadata": {
         "description": "Select name for Web App"
       }
@@ -42,7 +42,7 @@
 
     "apiname": {
       "type": "string",
-      "defaultValue": "CIaCSTraining-Api",
+      "defaultValue": "CIaCSTraining-Tamanna-Api",
       "metadata": {
         "description": "Select name for API App"
       }
@@ -50,7 +50,7 @@
 
     "sqlserverName": {
       "type": "string",
-      "defaultValue": "CIaCSTraining-Sql",
+      "defaultValue": "CIaCSTraining-Tamanna-Sql",
       "metadata": {
         "description": "Select name for SQL Server"
       }
