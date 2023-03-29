@@ -58,7 +58,7 @@
 
     "databaseName": {
       "type": "string",
-      "defaultValue": "ciacstrainingdb",
+      "defaultValue": "ciacstrainingdb-tamanna",
       "metadata": {
         "description": "Select name for database"
       }
